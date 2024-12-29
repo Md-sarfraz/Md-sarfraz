@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-sarfraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sarfraz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-sarfraz-900b4a246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sarfraz" height="30" width="40" /></a>
 <a href="https://instagram.com/sarfraz_charlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarfraz_charlie" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdsarfraz62070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdsarfraz62070" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/md_sarfraz123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_sarfraz123" height="30" width="40" /></a>
