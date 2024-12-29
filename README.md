@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Md Sarfraz</h1>
 <h3 align="center">A Passionate Fullstack Devloper From India</h3>
 
